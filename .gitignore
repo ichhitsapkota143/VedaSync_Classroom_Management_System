@@ -1,0 +1,20 @@
+# Secrets
+*.json
+serviceAccountKey.json
+
+# Large model/data files
+*.dat
+TrainingData/
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE / system
+.idea/
+*.log
+.DS_Store
